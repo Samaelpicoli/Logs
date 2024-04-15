@@ -41,7 +41,7 @@ e os logs são adicionados sequencialmente ao arquivo correspondente ao dia.
 A classe Log trata internamente os possíveis erros de escrita nos arquivos de log e lança exceções quando algo impede a escrita correta no arquivo.
 
 # Requisitos
-Python
+Python 3.11+
 
 # Autor
 Seu Nome ou seu Nickname - Desenvolvedor
