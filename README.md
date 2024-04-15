@@ -44,4 +44,4 @@ A classe Log trata internamente os possíveis erros de escrita nos arquivos de l
 Python 3.11+
 
 # Autor
-Seu Nome ou seu Nickname - Desenvolvedor
+Samael Muniz Picoli
